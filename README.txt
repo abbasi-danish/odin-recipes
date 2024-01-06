@@ -1,0 +1,1 @@
+This project will be a basic recipe website using HTML. By the end of the project, I will have applied my Git knowledge and HTML knowledge from the Odin lessons. 
